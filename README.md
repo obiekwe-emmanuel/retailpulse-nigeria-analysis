@@ -37,8 +37,8 @@ Tracks order completion, return rate, delivery performance, customer ratings, an
 
 **Key finding:** RetailPulse completes 74% of orders but loses 26% to returns, cancellations, and pending status — a systemic operations issue, not a category-specific one. The VIP segment has stayed flat for 2 of 3 years, meaning the business retains customers at "Returning" level but fails to graduate them upward.
 
-![Operations Dashboard 1](dashboards/Operations_and_Customer_Performance_1.png)
-![Operations Dashboard 2](dashboards/Operations_and_Customer_Performance_2.png)
+![Operations Dashboard 1](Operations_and_Customer_Performance_1.png)
+![Operations Dashboard 2](Operations_and_Customer_Performance_2.png)
 
 ## 🛠️ Tools Used
 - Microsoft Excel (Pivot Tables, Power Query, advanced formulas)

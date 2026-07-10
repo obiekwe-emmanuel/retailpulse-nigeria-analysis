@@ -29,8 +29,8 @@ Tracks total net revenue, profit, average order value, margin, and orders — br
 
 **Key finding:** ₦555M generated over 3 years but effectively flat, carried almost entirely by Electronics. VIP customers aren't spending more despite discounts, and 25% of orders aren't completing.
 
-![Revenue Dashboard 1](dashboards/Revenue_and_Profitability_1.png)
-![Revenue Dashboard 2](dashboards/Revenue_and_Profitability_2.png)
+![Revenue Dashboard 1](Revenue_and_Profitability_1.png)
+![Revenue Dashboard 2](Revenue_and_Profitability_2.png)
 
 ### Operations & Customer Performance Dashboard
 Tracks order completion, return rate, delivery performance, customer ratings, and customer segment movement over time.

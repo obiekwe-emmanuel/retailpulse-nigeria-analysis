@@ -29,16 +29,16 @@ Tracks total net revenue, profit, average order value, margin, and orders — br
 
 **Key finding:** ₦555M generated over 3 years but effectively flat, carried almost entirely by Electronics. VIP customers aren't spending more despite discounts, and 25% of orders aren't completing.
 
-![Revenue Dashboard 1](dashboards/Revenue_and_Profitability_1.jpg)
-![Revenue Dashboard 2](dashboards/Revenue_and_Profitability_2.jpg)
+![Revenue Dashboard 1](dashboards/Revenue_and_Profitability_1.png)
+![Revenue Dashboard 2](dashboards/Revenue_and_Profitability_2.png)
 
 ### Operations & Customer Performance Dashboard
 Tracks order completion, return rate, delivery performance, customer ratings, and customer segment movement over time.
 
 **Key finding:** RetailPulse completes 74% of orders but loses 26% to returns, cancellations, and pending status — a systemic operations issue, not a category-specific one. The VIP segment has stayed flat for 2 of 3 years, meaning the business retains customers at "Returning" level but fails to graduate them upward.
 
-![Operations Dashboard 1](dashboards/Operations_and_Customer_Performance_1.jpg)
-![Operations Dashboard 2](dashboards/Operations_and_Customer_Performance_2.jpg)
+![Operations Dashboard 1](dashboards/Operations_and_Customer_Performance_1.png)
+![Operations Dashboard 2](dashboards/Operations_and_Customer_Performance_2.png)
 
 ## 🛠️ Tools Used
 - Microsoft Excel (Pivot Tables, Power Query, advanced formulas)

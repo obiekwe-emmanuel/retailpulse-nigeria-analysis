@@ -46,5 +46,5 @@ Tracks order completion, return rate, delivery performance, customer ratings, an
 - Slicer-connected interactive dashboards
 
 ## 📁 Files
-- `RetailPulse_NG.xlsm` — Full macro-enabled workbook with dashboards
+- `https://github.com/obiekwe-emmanuel/retailpulse-nigeria-analysis/blob/main/RetailPulse%20NG.xlsm` — Full macro-enabled workbook with dashboards
 - `/dashboards` — Dashboard screenshots
